@@ -26,7 +26,7 @@ La aplicación cuenta con dos funcionalidades principales:
 1. **Clonar el repositorio:**
 
    ```bash
-   git clone https://github.com/tu-usuario/amigo-secreto.git
+   [git clone https://github.com/tu-usuario/amigo-secreto.git](https://github.com/Malvadoyael/Challenge_Alura.git)
 
 
 
