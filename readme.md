@@ -27,3 +27,13 @@ La aplicación cuenta con dos funcionalidades principales:
 
    ```bash
    git clone https://github.com/tu-usuario/amigo-secreto.git
+
+
+
+## Imagenes del proyecto
+
+![Pantalla principal, caja de texto y un primer nombre antes de ingresarlo](Imagenes del funcionamiento del programa/Pantalla1.png)
+![Nombres dentro de la lsita, programa listo para el sorteo de nombres](Imagenes del funcionamiento del programa/Pantalla2.png)
+![Pantalla con programa ejecutado y un nombre seleccionado](Imagenes del funcionamiento del programa/Pantalla3.png)
+![Menssaje de advertencia 1, no se ha ingresado ningun nombre](Imagenes del funcionamiento del programa/Pantalla4.png)
+![Mensaje de advertencia 2, no hay nombres en la lsita](Imagenes del funcionamiento del programa/Pantalla5.png)
